@@ -1,0 +1,17 @@
+/Users/lucasaguiar/Library/Mobile Documents/com~apple~CloudDocs/Projetos/Clear Architecture/src/CleanArchitecture.Persistence/bin/Debug/net7.0/CleanArchitecture.Persistence.deps.json
+/Users/lucasaguiar/Library/Mobile Documents/com~apple~CloudDocs/Projetos/Clear Architecture/src/CleanArchitecture.Persistence/bin/Debug/net7.0/CleanArchitecture.Persistence.dll
+/Users/lucasaguiar/Library/Mobile Documents/com~apple~CloudDocs/Projetos/Clear Architecture/src/CleanArchitecture.Persistence/bin/Debug/net7.0/CleanArchitecture.Persistence.pdb
+/Users/lucasaguiar/Library/Mobile Documents/com~apple~CloudDocs/Projetos/Clear Architecture/src/CleanArchitecture.Persistence/bin/Debug/net7.0/CleanArchitecture.Application.dll
+/Users/lucasaguiar/Library/Mobile Documents/com~apple~CloudDocs/Projetos/Clear Architecture/src/CleanArchitecture.Persistence/bin/Debug/net7.0/CleanArchitecture.Domain.dll
+/Users/lucasaguiar/Library/Mobile Documents/com~apple~CloudDocs/Projetos/Clear Architecture/src/CleanArchitecture.Persistence/bin/Debug/net7.0/CleanArchitecture.Application.pdb
+/Users/lucasaguiar/Library/Mobile Documents/com~apple~CloudDocs/Projetos/Clear Architecture/src/CleanArchitecture.Persistence/bin/Debug/net7.0/CleanArchitecture.Domain.pdb
+/Users/lucasaguiar/Library/Mobile Documents/com~apple~CloudDocs/Projetos/Clear Architecture/src/CleanArchitecture.Persistence/obj/Debug/net7.0/CleanArchitecture.Persistence.csproj.AssemblyReference.cache
+/Users/lucasaguiar/Library/Mobile Documents/com~apple~CloudDocs/Projetos/Clear Architecture/src/CleanArchitecture.Persistence/obj/Debug/net7.0/CleanArchitecture.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lucasaguiar/Library/Mobile Documents/com~apple~CloudDocs/Projetos/Clear Architecture/src/CleanArchitecture.Persistence/obj/Debug/net7.0/CleanArchitecture.Persistence.AssemblyInfoInputs.cache
+/Users/lucasaguiar/Library/Mobile Documents/com~apple~CloudDocs/Projetos/Clear Architecture/src/CleanArchitecture.Persistence/obj/Debug/net7.0/CleanArchitecture.Persistence.AssemblyInfo.cs
+/Users/lucasaguiar/Library/Mobile Documents/com~apple~CloudDocs/Projetos/Clear Architecture/src/CleanArchitecture.Persistence/obj/Debug/net7.0/CleanArchitecture.Persistence.csproj.CoreCompileInputs.cache
+/Users/lucasaguiar/Library/Mobile Documents/com~apple~CloudDocs/Projetos/Clear Architecture/src/CleanArchitecture.Persistence/obj/Debug/net7.0/CleanArchitecture.Persistence.csproj.CopyComplete
+/Users/lucasaguiar/Library/Mobile Documents/com~apple~CloudDocs/Projetos/Clear Architecture/src/CleanArchitecture.Persistence/obj/Debug/net7.0/CleanArchitecture.Persistence.dll
+/Users/lucasaguiar/Library/Mobile Documents/com~apple~CloudDocs/Projetos/Clear Architecture/src/CleanArchitecture.Persistence/obj/Debug/net7.0/refint/CleanArchitecture.Persistence.dll
+/Users/lucasaguiar/Library/Mobile Documents/com~apple~CloudDocs/Projetos/Clear Architecture/src/CleanArchitecture.Persistence/obj/Debug/net7.0/CleanArchitecture.Persistence.pdb
+/Users/lucasaguiar/Library/Mobile Documents/com~apple~CloudDocs/Projetos/Clear Architecture/src/CleanArchitecture.Persistence/obj/Debug/net7.0/ref/CleanArchitecture.Persistence.dll

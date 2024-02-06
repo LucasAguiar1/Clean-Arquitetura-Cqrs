@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "Yqv8f4UUJSHLGDIh2IA6q1QRReSxjDT2Xsnq+e0o8IcOfwVmWbHzgO3TkD1vxk94pU4Vl2uNEGBqg97fO8Wnmg==",
+  "success": true,
+  "projectFilePath": "/Users/lucasaguiar/Library/Mobile Documents/com~apple~CloudDocs/Projetos/Clear Architecture/src/CleanArchitecture.Application/CleanArchitecture.Application.csproj",
+  "expectedPackageFiles": [
+    "/Users/lucasaguiar/.nuget/packages/automapper/12.0.1/automapper.12.0.1.nupkg.sha512",
+    "/Users/lucasaguiar/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/12.0.1/automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
+    "/Users/lucasaguiar/.nuget/packages/fluentvalidation/11.9.0/fluentvalidation.11.9.0.nupkg.sha512",
+    "/Users/lucasaguiar/.nuget/packages/fluentvalidation.dependencyinjectionextensions/11.9.0/fluentvalidation.dependencyinjectionextensions.11.9.0.nupkg.sha512",
+    "/Users/lucasaguiar/.nuget/packages/mediatr/12.2.0/mediatr.12.2.0.nupkg.sha512",
+    "/Users/lucasaguiar/.nuget/packages/mediatr.contracts/2.0.1/mediatr.contracts.2.0.1.nupkg.sha512",
+    "/Users/lucasaguiar/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
+    "/Users/lucasaguiar/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "/Users/lucasaguiar/.nuget/packages/microsoft.extensions.options/6.0.0/microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "/Users/lucasaguiar/.nuget/packages/microsoft.extensions.primitives/6.0.0/microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "/Users/lucasaguiar/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

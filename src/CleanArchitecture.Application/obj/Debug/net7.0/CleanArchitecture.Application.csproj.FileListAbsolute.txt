@@ -1,0 +1,15 @@
+/Users/lucasaguiar/Library/Mobile Documents/com~apple~CloudDocs/Projetos/Clear Architecture/src/CleanArchitecture.Application/bin/Debug/net7.0/CleanArchitecture.Application.deps.json
+/Users/lucasaguiar/Library/Mobile Documents/com~apple~CloudDocs/Projetos/Clear Architecture/src/CleanArchitecture.Application/bin/Debug/net7.0/CleanArchitecture.Application.dll
+/Users/lucasaguiar/Library/Mobile Documents/com~apple~CloudDocs/Projetos/Clear Architecture/src/CleanArchitecture.Application/bin/Debug/net7.0/CleanArchitecture.Application.pdb
+/Users/lucasaguiar/Library/Mobile Documents/com~apple~CloudDocs/Projetos/Clear Architecture/src/CleanArchitecture.Application/bin/Debug/net7.0/CleanArchitecture.Domain.dll
+/Users/lucasaguiar/Library/Mobile Documents/com~apple~CloudDocs/Projetos/Clear Architecture/src/CleanArchitecture.Application/bin/Debug/net7.0/CleanArchitecture.Domain.pdb
+/Users/lucasaguiar/Library/Mobile Documents/com~apple~CloudDocs/Projetos/Clear Architecture/src/CleanArchitecture.Application/obj/Debug/net7.0/CleanArchitecture.Application.csproj.AssemblyReference.cache
+/Users/lucasaguiar/Library/Mobile Documents/com~apple~CloudDocs/Projetos/Clear Architecture/src/CleanArchitecture.Application/obj/Debug/net7.0/CleanArchitecture.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lucasaguiar/Library/Mobile Documents/com~apple~CloudDocs/Projetos/Clear Architecture/src/CleanArchitecture.Application/obj/Debug/net7.0/CleanArchitecture.Application.AssemblyInfoInputs.cache
+/Users/lucasaguiar/Library/Mobile Documents/com~apple~CloudDocs/Projetos/Clear Architecture/src/CleanArchitecture.Application/obj/Debug/net7.0/CleanArchitecture.Application.AssemblyInfo.cs
+/Users/lucasaguiar/Library/Mobile Documents/com~apple~CloudDocs/Projetos/Clear Architecture/src/CleanArchitecture.Application/obj/Debug/net7.0/CleanArchitecture.Application.csproj.CoreCompileInputs.cache
+/Users/lucasaguiar/Library/Mobile Documents/com~apple~CloudDocs/Projetos/Clear Architecture/src/CleanArchitecture.Application/obj/Debug/net7.0/CleanArchitecture.Application.csproj.CopyComplete
+/Users/lucasaguiar/Library/Mobile Documents/com~apple~CloudDocs/Projetos/Clear Architecture/src/CleanArchitecture.Application/obj/Debug/net7.0/CleanArchitecture.Application.dll
+/Users/lucasaguiar/Library/Mobile Documents/com~apple~CloudDocs/Projetos/Clear Architecture/src/CleanArchitecture.Application/obj/Debug/net7.0/refint/CleanArchitecture.Application.dll
+/Users/lucasaguiar/Library/Mobile Documents/com~apple~CloudDocs/Projetos/Clear Architecture/src/CleanArchitecture.Application/obj/Debug/net7.0/CleanArchitecture.Application.pdb
+/Users/lucasaguiar/Library/Mobile Documents/com~apple~CloudDocs/Projetos/Clear Architecture/src/CleanArchitecture.Application/obj/Debug/net7.0/ref/CleanArchitecture.Application.dll

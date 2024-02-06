@@ -1,0 +1,195 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/lucasaguiar/Library/Mobile Documents/com~apple~CloudDocs/Projetos/Clear Architecture/src/CleanArchitecture.Persistence/CleanArchitecture.Persistence.csproj": {}
+  },
+  "projects": {
+    "/Users/lucasaguiar/Library/Mobile Documents/com~apple~CloudDocs/Projetos/Clear Architecture/src/CleanArchitecture.Application/CleanArchitecture.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/lucasaguiar/Library/Mobile Documents/com~apple~CloudDocs/Projetos/Clear Architecture/src/CleanArchitecture.Application/CleanArchitecture.Application.csproj",
+        "projectName": "CleanArchitecture.Application",
+        "projectPath": "/Users/lucasaguiar/Library/Mobile Documents/com~apple~CloudDocs/Projetos/Clear Architecture/src/CleanArchitecture.Application/CleanArchitecture.Application.csproj",
+        "packagesPath": "/Users/lucasaguiar/.nuget/packages/",
+        "outputPath": "/Users/lucasaguiar/Library/Mobile Documents/com~apple~CloudDocs/Projetos/Clear Architecture/src/CleanArchitecture.Application/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/lucasaguiar/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/lucasaguiar/Library/Mobile Documents/com~apple~CloudDocs/Projetos/Clear Architecture/src/CleanArchitecture.Domain/CleanArchitecture.Domain.csproj": {
+                "projectPath": "/Users/lucasaguiar/Library/Mobile Documents/com~apple~CloudDocs/Projetos/Clear Architecture/src/CleanArchitecture.Domain/CleanArchitecture.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "FluentValidation.DependencyInjectionExtensions": {
+              "target": "Package",
+              "version": "[11.9.0, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.311/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/lucasaguiar/Library/Mobile Documents/com~apple~CloudDocs/Projetos/Clear Architecture/src/CleanArchitecture.Domain/CleanArchitecture.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/lucasaguiar/Library/Mobile Documents/com~apple~CloudDocs/Projetos/Clear Architecture/src/CleanArchitecture.Domain/CleanArchitecture.Domain.csproj",
+        "projectName": "CleanArchitecture.Domain",
+        "projectPath": "/Users/lucasaguiar/Library/Mobile Documents/com~apple~CloudDocs/Projetos/Clear Architecture/src/CleanArchitecture.Domain/CleanArchitecture.Domain.csproj",
+        "packagesPath": "/Users/lucasaguiar/.nuget/packages/",
+        "outputPath": "/Users/lucasaguiar/Library/Mobile Documents/com~apple~CloudDocs/Projetos/Clear Architecture/src/CleanArchitecture.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/lucasaguiar/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.311/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/lucasaguiar/Library/Mobile Documents/com~apple~CloudDocs/Projetos/Clear Architecture/src/CleanArchitecture.Persistence/CleanArchitecture.Persistence.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/lucasaguiar/Library/Mobile Documents/com~apple~CloudDocs/Projetos/Clear Architecture/src/CleanArchitecture.Persistence/CleanArchitecture.Persistence.csproj",
+        "projectName": "CleanArchitecture.Persistence",
+        "projectPath": "/Users/lucasaguiar/Library/Mobile Documents/com~apple~CloudDocs/Projetos/Clear Architecture/src/CleanArchitecture.Persistence/CleanArchitecture.Persistence.csproj",
+        "packagesPath": "/Users/lucasaguiar/.nuget/packages/",
+        "outputPath": "/Users/lucasaguiar/Library/Mobile Documents/com~apple~CloudDocs/Projetos/Clear Architecture/src/CleanArchitecture.Persistence/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/lucasaguiar/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/lucasaguiar/Library/Mobile Documents/com~apple~CloudDocs/Projetos/Clear Architecture/src/CleanArchitecture.Application/CleanArchitecture.Application.csproj": {
+                "projectPath": "/Users/lucasaguiar/Library/Mobile Documents/com~apple~CloudDocs/Projetos/Clear Architecture/src/CleanArchitecture.Application/CleanArchitecture.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[7.0.15, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.311/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
